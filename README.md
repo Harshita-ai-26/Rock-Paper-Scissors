@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game (Python)
+# Rock Paper Scissors Game 
 
 A simple command-line Rock-Paper-Scissors game built using Python.  
 It takes user input, generates a random computer choice, and decides the result using index-based logic.
